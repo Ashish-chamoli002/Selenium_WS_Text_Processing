@@ -1,0 +1,21 @@
+userName: nY
+accessKey: 
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 120.0
+  - os: OS X
+    osVersion: Monterey
+    browserName: Safari
+    browserVersion: 15.6
+  - deviceName: iPhone 13
+    osVersion: 15
+    browserName: Chromium
+    deviceOrientation: portrait
+browserstackLocal: true
+buildName: browserstack-webscrapping
+projectName: Selenium Web Scrapping
+debug: false
+networkLogs: false
+consoleLogs: errors
